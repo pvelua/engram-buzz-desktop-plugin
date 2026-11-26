@@ -1,0 +1,8 @@
+# Local-only: screenshots and notes, never committed
+/docs/internal/
+
+# macOS
+.DS_Store
+
+# Release zips (built by tools/build-zip.sh, published to pvelua.net/downloads)
+/dist/

@@ -1,0 +1,11 @@
+{
+  "id": "pvelua.engram",
+  "name": "ENGRAM",
+  "apiVersion": 1,
+  "description": "ENGRAM memory, knowledge base and skills for your Buzz Desktop agents. Each community uses its own ENGRAM; map each agent to its ENGRAM identity in Settings → ENGRAM. Preview.",
+  "host": {
+    "networkOrigins": [
+      "https://engram.pvelua.net"
+    ]
+  }
+}
