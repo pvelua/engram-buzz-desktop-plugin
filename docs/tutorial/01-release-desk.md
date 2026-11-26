@@ -9,6 +9,10 @@ ENGRAM plug-in for Buzz Desktop: Part 1 on 21–22 November 2026, and Part 2 on 
 Every step passed, and the text was corrected from those runs. Buzz Desktop was upgraded during the run, from 1.0.2 to
 1.0.5, so some screenshots mention 1.0.5; any 1.x release works.
 
+**Watch it first:** a short video of the desk at work on the hosted service: one prompt to Scout, a hand-off that
+wakes Writer, reviewed release notes, and a skill changed in ENGRAM while the agents run:
+[youtube.com/watch?v=mZ3W7j6grWs](https://www.youtube.com/watch?v=mZ3W7j6grWs).
+
 ## What you will build
 
 A small **release desk**: three Goose agents in Buzz Desktop that turn a real repository's history into
